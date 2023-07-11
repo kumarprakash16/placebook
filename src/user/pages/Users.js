@@ -6,7 +6,7 @@ export const Users = () =>{
         {
             id: 'u',
             name: 'Prakash Kumar',
-            image: 'https://ylpapp.isb.edu/user/sample_photo.html',
+            image: 'https://www.pngitem.com/pimgs/m/264-2640465_passport-size-photo-sample-hd-png-download.png',
             places: 3
         }
     ]
